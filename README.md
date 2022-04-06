@@ -2,7 +2,6 @@
 
 # Support
 For help and support you can join my discord: https://discord.gg/FatDtTeMpM
-Also if you skid this give me credits
 
 <a href="https://discord.gg/FatDtTeMpM">Discord</a>
 

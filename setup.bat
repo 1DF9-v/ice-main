@@ -1,6 +1,6 @@
-pip install requests
-pip install threading
-pip install Thread
-pip install colorama
-pip install ctypes
-pip install colorama
+@echo off
+cls
+title Ice Installer
+py -3.8 -m pip install -r requirements.txt
+echo Finished!
+pause

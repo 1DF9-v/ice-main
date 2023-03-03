@@ -1,7 +1,7 @@
 - Open https://github.com/1DF9-v/ice-main
 
 # Support
-For help and support you can join my discord: https://discord.gg/FatDtTeMpM
+For help and support you can join my discord: https://discord.gg/4E7bD58bHD
 
 <a href="https://discord.gg/FatDtTeMpM">Discord</a>
 

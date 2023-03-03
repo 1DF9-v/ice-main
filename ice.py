@@ -14,7 +14,7 @@ from time import sleep
 
 
 
-ctypes.windll.kernel32.SetConsoleTitleW("ice tool by 475456425062301696 or 314843899736883200 | https://discord.gg/FatDtTeMpM")
+ctypes.windll.kernel32.SetConsoleTitleW("ice tool by H7#0842-(1078602902622445608) or euro#7918-(716008936515305573) | https://discord.gg/4E7bD58bHD")
 
 
 

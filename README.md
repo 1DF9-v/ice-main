@@ -2,6 +2,7 @@
 
 # Support
 For help and support you can join my discord: https://discord.gg/4E7bD58bHD
+did this tool 1 year ago (2022) H7#0842
 
 <a href="https://discord.gg/4E7bD58bHD">Discord</a>
 

@@ -1,1 +1,1 @@
-py ice.py
+python ice.py

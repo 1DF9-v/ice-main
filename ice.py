@@ -39,7 +39,7 @@ banner = """
 
 by : https://discord.gg/FatDtTeMpM\n please join for any problem and open a ticket
 
-> https://discord.gg/FatDtTeMpM
+> https://discord.gg/4E7bD58bHD
 > https://github.com/1DF9-v                                   
 """
 

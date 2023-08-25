@@ -14,7 +14,7 @@ from time import sleep
 
 
 
-ctypes.windll.kernel32.SetConsoleTitleW("ice tool by H7#0842-(1078602902622445608) or euro#7918-(716008936515305573) | https://discord.gg/4E7bD58bHD")
+ctypes.windll.kernel32.SetConsoleTitleW("ice tool by h778m- or 77gx | https://discord.gg/9AXvD6XdEh")
 
 
 
@@ -39,7 +39,7 @@ banner = """
 
 by : https://discord.gg/FatDtTeMpM\n please join for any problem and open a ticket
 
-> https://discord.gg/4E7bD58bHD
+> https://discord.gg/9AXvD6XdEh
 > https://github.com/1DF9-v                                   
 """
 

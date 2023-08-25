@@ -2,7 +2,7 @@
 
 # Support
 For help and support you can join my discord: https://discord.gg/9AXvD6XdEh
-did this tool 2 year ago (2021)c h778m
+did this tool 1 year ago (2022)c h778m
 
 <a href="https://discord.gg/9AXvD6XdEh">Discord</a>
 
